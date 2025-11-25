@@ -1,0 +1,6 @@
+neighbourhood_group,avg_price,median_price,total_listings,avg_min_nights,avg_reviews_per_month,num_expensive
+Bronx,87.8,65.0,1077,3.2,1.49,45
+Brooklyn,123.62,90.0,19842,4.9,1.06,2020
+Manhattan,195.56,150.0,21238,6.7,0.99,5822
+Queens,97.25,75.0,5611,4.4,1.58,318
+Staten Island,115.35,75.0,369,3.6,1.59,25
